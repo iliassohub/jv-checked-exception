@@ -15,4 +15,3 @@ public class UserService {
         System.out.println("User " + user.toString() + " was saved to database!!!");
     }
 }
-
